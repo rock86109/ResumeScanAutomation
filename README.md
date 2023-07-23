@@ -1,13 +1,13 @@
 # ResumeScanAutomation
 Automate the resume scanning processes for HR.  
 
-### all resume pdf files
+### All resume pdf files
 
 ```bash
-mkdir resume_all```
+mkdir resume_all
 ```
 
-### empty folder as the temporary db
+### Empty folder as the temporary db
 
 ``` bash
 ```mkdir resume_search
