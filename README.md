@@ -10,5 +10,5 @@ mkdir resume_all
 ### Empty folder as the temporary db
 
 ``` bash
-```mkdir resume_search
+mkdir resume_search
 ``` 
