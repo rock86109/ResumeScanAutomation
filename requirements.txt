@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+openai
+tiktoken
+pypdf
+faiss-cpu
+bs4
+docarray
+# docarray[hnswlib]
+# docarray[elasticsearch]
+# docarray[weaviate]
